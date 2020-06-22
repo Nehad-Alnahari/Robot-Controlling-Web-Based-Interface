@@ -2,7 +2,7 @@
 
 
 Web-Based Interface that allows to click on the buttons and displays the chosen direction 
-built using:
+<br />built using:
 * HTML
 * CSS
 * Javascript
